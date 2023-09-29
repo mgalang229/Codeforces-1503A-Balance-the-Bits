@@ -28,7 +28,7 @@ void test_case(int& tc) {
 			flip = !flip;
 		}
 	}
-	cout << "YES\n" << "\n" << a << "\n" << b << "\n";
+	cout << "YES\n" << a << "\n" << b << "\n";
 }
 
 int main() {
